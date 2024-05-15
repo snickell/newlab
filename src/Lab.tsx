@@ -2,7 +2,7 @@ import {CodeOrg, BlockWorkspace, Header, Output} from '../libprotolab/layout/Cod
 import {toolbox} from './toolbox'
 import {DownloadRecordingLink} from '../libprotolab/session-recorder'
 
-export const LAB_NAME = "Protolab"
+export const LAB_NAME = "newlab"
 
 function Toolbar() {
   return (
